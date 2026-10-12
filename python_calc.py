@@ -45,7 +45,7 @@ def prime(num1):
 while True:
     print("\nChoose Operation you want to execute:")
     print("1. Addition\n2. Subtraction\n3. Multiplication")
-    print("4. Division\n5. Check Even/Odd\n6. Calculate Percentage")
+    print("4. Division\n5. Check if funtion is Even or Odd\n6. Calculate Percentage")
     print("7. Factorial\n8. Check Prime Number\n9. Exit")
 
     operation = int(input("Operation (1 to 9): "))
